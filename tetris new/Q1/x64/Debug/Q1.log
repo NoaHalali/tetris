@@ -1,0 +1,11 @@
+﻿  GameConfig.cpp
+  main.cpp
+C:\Users\noa40\source\repos\שנה ב\מטלות\tetris new\Q1\main.cpp(11,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\noa40\source\repos\שנה ב\מטלות\tetris new\Q1\main.cpp(12,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  point.cpp
+  shape.cpp
+  TetrisBoard.cpp
+  TetrisGame.cpp
+  Generating Code...
+main.obj : error LNK2019: unresolved external symbol "public: void __cdecl TetrisGame::start(void)" (?start@TetrisGame@@QEAAXXZ) referenced in function main
+C:\Users\noa40\source\repos\שנה ב\מטלות\tetris new\x64\Debug\Q1.exe : fatal error LNK1120: 1 unresolved externals

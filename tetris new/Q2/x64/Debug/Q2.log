@@ -1,0 +1,13 @@
+﻿  Computer.cpp
+  TetrisBoard.cpp
+  TetrisGame.cpp
+  gameConfig.cpp
+  humanPlayer.cpp
+  main.cpp
+  player.cpp
+C:\Users\noa40\source\repos\שנה ב\מטלות\tetris new\Q2\main.cpp(11,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\noa40\source\repos\שנה ב\מטלות\tetris new\Q2\main.cpp(12,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  point.cpp
+  shape.cpp
+  Generating Code...
+  Q2.vcxproj -> C:\Users\noa40\source\repos\שנה ב\מטלות\tetris new\x64\Debug\Q2.exe
